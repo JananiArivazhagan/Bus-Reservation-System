@@ -1,7 +1,9 @@
 PROJECT CREATED BY : Janani A
 
 LOGIN DETAILS:
-  UNAME: admin
+  
+  Uname: admin
+  
   Password:admin
 
 #Project Running steps:
